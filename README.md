@@ -1,3 +1,4 @@
+<h1>Inactive</h1>
 <h1>Додаток до розширення <a href="https://chrome.google.com/webstore/detail/google-meet-attendance-li/appcnhiefcidclcdjeahgklghghihfok">Google Meet Attendance</a></h1>
 <i>Зверніть увагу, що наразі потрібно компілювати власноруч, самостійне налаштування недоступне поки що</i>
 <hr>
